@@ -1,28 +1,17 @@
 /*Description: This program reads course data from 'courselist.dat'. It stores
 marks, course codes, and course names in vectors. It then allows the user to filter
 the course information by year and sort by title or coursecode.
-Author: Hassan Hashmi
-Date: 23/02/2024*/
+Author: Hassan Hashmi*/
 #include <iostream>
-
 #include <fstream>
-
 #include <vector>
-
 #include <cmath>
-
 #include <sstream>
-
 #include <string>
-
 #include <limits>
-
 #include <algorithm>
-
 #include <tuple>
-
 #include <iterator>
-
 #include <iomanip>
 
 int validate_user_input(const std::string & prompt, int minimum, int maximum) {
