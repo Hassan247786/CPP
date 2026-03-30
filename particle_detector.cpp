@@ -2,16 +2,12 @@
 different types of leptons (electrons/muons). It also displays information
 about the properties of those leptons (from appropriate input) and how many
 relevant particles were detected.
-Author: Hassan Hashmi
-Date: 07/03/2024*/
+Author: Hassan Hashmi*/
+
 #include <iostream>
-
 #include <string>
-
 #include <cmath>
-
 #include <iomanip>
-
 #include <vector>
 
 const double speed_of_light = 2.99792458e8;
