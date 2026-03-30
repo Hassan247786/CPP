@@ -2,16 +2,12 @@
 This includes using overloaded operators to sum vectors, finding
 the dot product of the momentum of two leptons, as well as copying and
 moving data from one lepton object to another via various means.
-Author: Hassan Hashmi
-Date: 16/04/2024*/
+Author: Hassan Hashmi*/
+
 #include <iostream>
-
 #include <string>
-
 #include <cmath>
-
 #include <iomanip>
-
 #include <vector>
 
 const double speed_of_light = 1;
