@@ -1,11 +1,9 @@
 // Description: This program calculates the transition energy between electron energy levels,
 // or equivalently, the energy of emitted photons in such transitions - according to the Bohr Model.
 // Author: Hassan Hashmi
-// Date: 06/02/2024
+
 #include <iostream>
-
 #include <cmath>
-
 #include <limits>
 
 const double rydberg_energy = 13.6;
