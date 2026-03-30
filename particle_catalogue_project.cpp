@@ -1,22 +1,15 @@
 /*Description: This code provides a catalogue of all particles in the Standard Model of Physics.
 It can be used to view physical properties of particles, as well as their associated quantum numbers.
 The particles are split into separate classes, and some instances of particle decays are shown.
-Author: Hassan Hashmi
-Date: 10/05/2024*/
+Author: Hassan Hashmi*/
+
 #include <iostream>
-
 #include <string>
-
 #include <iomanip>
-
 #include <vector>
-
 #include <memory>
-
 #include <cmath>
-
 #include <list>
-
 #include <algorithm>
 
 const double speed_of_light = 1;
