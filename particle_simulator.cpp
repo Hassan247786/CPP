@@ -1,16 +1,12 @@
 /*Description: This code creates multiple particle objects, derived from a single lepton class.
 Each particle has its own momentum and fundamental properties, which can be printed.
 The code also involves basic interaction of particles with a calorimeter.
-Author: Hassan Hashmi
-Date: 20/04/2024*/
+Author: Hassan Hashmi*/
+
 #include <iostream>
-
 #include <string>
-
 #include <iomanip>
-
 #include <vector>
-
 #include <memory>
 
 const double speed_of_light = 1;
